@@ -1,2 +1,1 @@
-# ADV-C117-1_4-IDENTIFICACI-N-DE-SONIDOS_plantilla
-ADV-C117-1_4-IDENTIFICACIÓN DE SONIDOS_plantilla sin gotResults ()
+# Aliens controlados por sonidos
